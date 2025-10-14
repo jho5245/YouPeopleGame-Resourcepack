@@ -27,6 +27,13 @@
           "type": "model",
           "model": "youpeoplegame:item/crispy_cookie"
         }
+      },
+      {
+        "when": "youpeoplegame_moist_cookie",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/moist_cookie"
+        }
       }
     ]
   }
