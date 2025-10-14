@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": [{"translate":"YouPeopleGame Resourcepack", "color":"#52ee52"}, {"translate":" resource pack", "color":"gray"}],
+	"supported_formats":[15,2000]
+  }
+}
