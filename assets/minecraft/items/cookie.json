@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/cookie"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_damp_cookie_pile",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/damp_cookie_pile"
+        }
+      },
+      {
+        "when": "youpeoplegame_damp_cookie_even",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/damp_cookie_even"
+        }
+      },
+      {
+        "when": "youpeoplegame_crispy_cookie",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/crispy_cookie"
+        }
+      }
+    ]
+  }
+}
