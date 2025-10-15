@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/lapis_lazuli"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_magic_matter",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/magic_matter"
+        }
+      }
+    ]
+  }
+}
