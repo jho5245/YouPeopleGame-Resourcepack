@@ -13,6 +13,13 @@
           "type": "model",
           "model": "youpeoplegame:item/moist_cookie_booster"
         }
+      },
+      {
+        "when": "youpeoplegame_super_moist_cookie_booster",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/super_moist_cookie_booster"
+        }
       }
     ]
   }
