@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_13"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_medal_of_parkour",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/medal_of_parkour"
+        }
+      }
+    ]
+  }
+}
