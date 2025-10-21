@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/dirt"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_gui_sack_category_dirt",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/gui/sack_category_dirt"
+        }
+      }
+    ]
+  }
+}

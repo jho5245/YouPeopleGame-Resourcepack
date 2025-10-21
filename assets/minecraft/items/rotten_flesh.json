@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/rotten_flesh"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_gui_sack_category_combat",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/gui/sack_category_combat"
+        }
+      }
+    ]
+  }
+}

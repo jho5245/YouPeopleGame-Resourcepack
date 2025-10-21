@@ -13,6 +13,13 @@
           "type": "model",
           "model": "youpeoplegame:item/medal_of_parkour"
         }
+      },
+      {
+        "when": "youpeoplegame_gui_sack_category_currency",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/gui/sack_category_currency"
+        }
       }
     ]
   }

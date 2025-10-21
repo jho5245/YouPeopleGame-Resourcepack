@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/hopper"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_gui_sack_get_all",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/gui/sack_get_all"
+        }
+      }
+    ]
+  }
+}

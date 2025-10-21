@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "youpeoplegame:item/medal_of_parkour"
+    "layer0": "youpeoplegame:item/gui/sack_category_dirt"
   }
 }

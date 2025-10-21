@@ -34,6 +34,13 @@
           "type": "model",
           "model": "youpeoplegame:item/moist_cookie"
         }
+      },
+      {
+        "when": "youpeoplegame_gui_sack_category_cookie",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/gui/sack_category_cookie"
+        }
       }
     ]
   }
