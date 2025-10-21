@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/bamboo_mosaic"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_spirit_matter",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/spirit_matter"
+        }
+      }
+    ]
+  }
+}

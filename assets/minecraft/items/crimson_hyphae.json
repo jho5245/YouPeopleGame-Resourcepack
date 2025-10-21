@@ -4,14 +4,14 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "block/terracotta"
+      "model": "block/crimson_hyphae"
     },
     "cases": [
       {
-        "when": "youpeoplegame_clay_pile",
+        "when": "youpeoplegame_corrupted_matter",
         "model": {
           "type": "model",
-          "model": "youpeoplegame:item/clay_pile"
+          "model": "youpeoplegame:item/corrupted_matter"
         }
       }
     ]
