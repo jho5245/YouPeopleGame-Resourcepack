@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/diamond_sword"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_crispy_cookie_sword",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/crispy_cookie_sword"
+        }
+      }
+    ]
+  }
+}

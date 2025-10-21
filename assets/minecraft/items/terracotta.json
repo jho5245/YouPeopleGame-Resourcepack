@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/terracotta"
+    },
+    "cases": [
+      {
+        "when": "youpeoplegame_clay_pile",
+        "model": {
+          "type": "model",
+          "model": "youpeoplegame:item/clay_pile"
+        }
+      }
+    ]
+  }
+}
