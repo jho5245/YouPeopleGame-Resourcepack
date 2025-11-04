@@ -34,7 +34,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_gui_sack_put_all",
+        "when": "youpeoplegame:gui_sack_put_all",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/gui/sack_put_all"

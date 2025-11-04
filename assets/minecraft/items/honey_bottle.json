@@ -8,14 +8,14 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_moist_cookie_booster",
+        "when": "youpeoplegame:moist_cookie_booster",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/moist_cookie_booster"
         }
       },
       {
-        "when": "youpeoplegame_super_moist_cookie_booster",
+        "when": "youpeoplegame:super_moist_cookie_booster",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/super_moist_cookie_booster"

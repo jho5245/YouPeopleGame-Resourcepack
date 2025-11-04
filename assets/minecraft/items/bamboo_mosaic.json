@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_spirit_matter",
+        "when": "youpeoplegame:spirit_matter",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/spirit_matter"

@@ -8,35 +8,35 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_damp_cookie_pile",
+        "when": "youpeoplegame:damp_cookie_pile",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/damp_cookie_pile"
         }
       },
       {
-        "when": "youpeoplegame_damp_cookie_even",
+        "when": "youpeoplegame:damp_cookie_even",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/damp_cookie_even"
         }
       },
       {
-        "when": "youpeoplegame_crispy_cookie",
+        "when": "youpeoplegame:crispy_cookie",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/crispy_cookie"
         }
       },
       {
-        "when": "youpeoplegame_moist_cookie",
+        "when": "youpeoplegame:moist_cookie",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/moist_cookie"
         }
       },
       {
-        "when": "youpeoplegame_gui_sack_category_cookie",
+        "when": "youpeoplegame:gui_sack_category_cookie",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/gui/sack_category_cookie"

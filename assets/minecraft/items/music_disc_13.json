@@ -8,14 +8,14 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_medal_of_parkour",
+        "when": "youpeoplegame:medal_of_parkour",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/medal_of_parkour"
         }
       },
       {
-        "when": "youpeoplegame_gui_sack_category_currency",
+        "when": "youpeoplegame:gui_sack_category_currency",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/gui/sack_category_currency"

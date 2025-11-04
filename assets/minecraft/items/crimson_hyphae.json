@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_corrupted_matter",
+        "when": "youpeoplegame:corrupted_matter",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/corrupted_matter"

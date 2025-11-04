@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_crispy_cookie_pickaxe",
+        "when": "youpeoplegame:crispy_cookie_pickaxe",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/crispy_cookie_pickaxe"

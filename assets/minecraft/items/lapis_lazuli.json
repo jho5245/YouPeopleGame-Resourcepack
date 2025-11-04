@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_magic_matter",
+        "when": "youpeoplegame:magic_matter",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/magic_matter"

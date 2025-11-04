@@ -8,7 +8,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_gui_sack_category_mining",
+        "when": "youpeoplegame:gui_sack_category_mining",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/gui/sack_category_mining"

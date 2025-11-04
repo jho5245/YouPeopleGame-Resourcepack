@@ -12,7 +12,7 @@
     },
     "cases": [
       {
-        "when": "youpeoplegame_crispy_cookie_box",
+        "when": "youpeoplegame:crispy_cookie_box",
         "model": {
           "type": "model",
           "model": "youpeoplegame:item/crispy_cookie_box"
